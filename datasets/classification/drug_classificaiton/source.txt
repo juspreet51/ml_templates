@@ -1,0 +1,8 @@
+Drug Classification: https://www.kaggle.com/prathamtripathi/drug-classification
+
+The solution should contain a well-made machine learning model with high confidence in 
+predicting the drug type (A, B,C,X,Y) that should be given to a particular patient based 
+on their characteristics and which drug type will suit them best.
+
+Solutions:	https://www.kaggle.com/gorkemgunay/drug-classification-with-different-algorithms
+			https://www.kaggle.com/mohamedzayton/drug-classification-rf-nn

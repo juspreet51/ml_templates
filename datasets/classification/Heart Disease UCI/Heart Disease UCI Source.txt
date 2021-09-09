@@ -1,0 +1,44 @@
+Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+################################################################################################################
+################################################################################################################
+	
+Complete attribute documentation:
+	1 id: patient identification number
+	2 ccf: social security number (I replaced this with a dummy value of 0)
+	3 age: age in years
+	4 sex: sex (1 = male; 0 = female)
+	5 painloc: chest pain location (1 = substernal; 0 = otherwise)
+	6 painexer (1 = provoked by exertion; 0 = otherwise)
+	7 relrest (1 = relieved after rest; 0 = otherwise)
+	8 pncaden (sum of 5, 6, and 7)
+	9 cp: chest pain type
+		-- Value 1: typical angina
+		-- Value 2: atypical angina
+		-- Value 3: non-anginal pain
+		-- Value 4: asymptomatic
+	10 trestbps: resting blood pressure (in mm Hg on admission to the hospital)
+	11 htn
+	12 chol: serum cholestoral in mg/dl
+	13 smoke: I believe this is 1 = yes; 0 = no (is or is not a smoker)
+	14 cigs (cigarettes per day)
+	15 years (number of years as a smoker)
+	16 fbs: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+	17 dm (1 = history of diabetes; 0 = no such history)
+	18 famhist: family history of coronary artery disease (1 = yes; 0 = no)
+	19 restecg: resting electrocardiographic results
+		-- Value 0: normal
+		-- Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+		-- Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
+	20 ekgmo (month of exercise ECG reading)
+	21 ekgday(day of exercise ECG reading)
+	22 ekgyr (year of exercise ECG reading)
+	23 dig (digitalis used furing exercise ECG: 1 = yes; 0 = no)
+	24 prop (Beta blocker used during exercise ECG: 1 = yes; 0 = no)
+	25 nitr (nitrates used during exercise ECG: 1 = yes; 0 = no)
+	26 pro (calcium channel blocker used during exercise ECG: 1 = yes; 0 = no)
+	27 diuretic (diuretic used used during exercise ECG: 1 = yes; 0 = no)
+	28 proto: exercise protocol 
+
+################################################################################################################
+################################################################################################################

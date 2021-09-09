@@ -1,0 +1,7 @@
+https://www.kaggle.com/aungpyaeap/fish-market/
+
+MULTIPLE LINEAR REGRESSION MODEL FOR WEIGHT ESTIMATION FROM MEASUREMENTS OF THE FISH
+The aim of this study is to estimate weight of the fish indivuduals from their measurements through using linear regression model.
+
+Solutions: 	https://www.kaggle.com/akdagmelih/multiplelinear-regression-fish-weight-estimation/data
+			https://www.kaggle.com/midotroy/fish-pred#Train-model-to-get-best-one
