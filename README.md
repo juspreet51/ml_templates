@@ -1,2 +1,2 @@
-# ml_templates
-basic templates required to work on any ml problem
+# ML_templates
+Basic templates required to work on any ml problem
