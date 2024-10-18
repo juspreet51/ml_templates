@@ -6,7 +6,7 @@ st.set_page_config(
     , page_icon=":bar_chart:"
     , layout="centered", initial_sidebar_state="expanded"
     , menu_items={
-        'Report a bug': 'mailto:ai.jaspreetsingh@gmail.com',  # This will open the default email client
+        'Report a bug': 'mailto:ai.jaspreetsingh@gmail.com',  # This will open the default email camalient
         'About': "This is a custom Streamlit app built for demonstration purposes by Jaspreet Singh. Visit linkedin.jaspreetblogs.in to get in touch."
     })
 
